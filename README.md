@@ -6,4 +6,4 @@ Prerequisites for running the program:
 
 download and install packages in nuget
 
-Use a mask (:
+Please do not remove your mask from your face yet (:
