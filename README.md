@@ -5,3 +5,4 @@ Prerequisites for running the program:
 2. RestSharp.106.11.4
 
 download and install packages in nuget
+Use a mask (:
